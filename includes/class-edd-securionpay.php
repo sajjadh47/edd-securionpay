@@ -73,10 +73,10 @@ class Edd_Securionpay {
 	 *
 	 * Include the following files that make up the plugin:
 	 *
-	 * - Edd_Securionpay_Loader.  Orchestrates the hooks of the plugin.
-	 * - Edd_Securionpay_i18n.    Defines internationalization functionality.
-	 * - Edd_Securionpay_Admin.   Defines all hooks for the admin area.
-	 * - Edd_Securionpay_Public.  Defines all hooks for the public side of the site.
+	 * - Edd_Securionpay_Loader. Orchestrates the hooks of the plugin.
+	 * - Edd_Securionpay_i18n.   Defines internationalization functionality.
+	 * - Edd_Securionpay_Admin.  Defines all hooks for the admin area.
+	 * - Edd_Securionpay_Public. Defines all hooks for the public side of the site.
 	 *
 	 * Create an instance of the loader which will be used to register the hooks
 	 * with WordPress.
@@ -210,6 +210,7 @@ class Edd_Securionpay {
 	 *
 	 * @since     2.0.0
 	 * @access    public
+	 * @static
 	 * @param     float|int $amount   The amount to convert.
 	 * @param     string    $currency The currency of the amount.
 	 * @return    float|int $amount   Modified converted amount.

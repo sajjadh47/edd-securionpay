@@ -24,6 +24,7 @@ class Edd_Securionpay_Activator {
 	 * or scheduling cron jobs.
 	 *
 	 * @since     2.0.0
+	 * @static
 	 * @access    public
 	 */
 	public static function on_activate() {}
