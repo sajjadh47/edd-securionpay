@@ -209,8 +209,8 @@ class Edd_Securionpay {
 	 * For example 10€ is represented as "1000" and 10¥ is represented as "10".
 	 *
 	 * @since     2.0.0
-	 * @access    public
 	 * @static
+	 * @access    public
 	 * @param     float|int $amount   The amount to convert.
 	 * @param     string    $currency The currency of the amount.
 	 * @return    float|int $amount   Modified converted amount.
