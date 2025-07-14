@@ -78,7 +78,7 @@ class Edd_Securionpay_Admin {
 		if ( ! class_exists( 'Easy_Digital_Downloads', false ) ) {
 			sprintf(
 				'<div class="notice notice-warning is-dismissible"><p>%s <a href="%s">%s</a> %s</p></div>',
-				__( 'Payment Gateway for EDD - SecurionPay requires', 'edd-securionpay' ),
+				__( 'Payment Gateway For EDD - SecurionPay requires', 'edd-securionpay' ),
 				esc_url( 'https://wordpress.org/plugins/easy-digital-downloads/' ),
 				__( 'Easy Digital Downloads', 'edd-securionpay' ),
 				__( 'plugin to be active!', 'edd-securionpay' ),
