@@ -10,11 +10,11 @@
  * @package           Edd_Securionpay
  * @author            Sajjad Hossain Sagor <sagorh672@gmail.com>
  *
- * Plugin Name:       Payment Gateway for EDD - SecurionPay
+ * Plugin Name:       Payment Gateway For EDD - SecurionPay
  * Plugin URI:        https://wordpress.org/plugins/edd-securionpay/
  * Description:       Integrate SecurionPay payment gateway to your Easy Digital Downloads (EDD) store.
  * Version:           2.0.0
- * Requires at least: 6.5
+ * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
  * Author URI:        https://sajjadhsagor.com/

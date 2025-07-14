@@ -156,7 +156,7 @@ class Edd_Securionpay_Admin {
 		// check for nonce to skip security vulnerability.
 		if ( ! wp_verify_nonce( $purchase_data['gateway_nonce'], 'edd-gateway' ) ) {
 			wp_die(
-				esc_html__( 'Nonce verification has failed', 'easy-digital-downloads' ),
+				esc_html__( 'Nonce verification has failed', 'edd-securionpay' ),
 				esc_html__( 'Error', 'edd-securionpay' ),
 				array( 'response' => 403 )
 			);
