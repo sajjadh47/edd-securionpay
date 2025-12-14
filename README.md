@@ -1,6 +1,6 @@
 # Payment Gateway For EDD - SecurionPay
 
-[![Plugin Banner](https://ps.w.org/edd-securionpay/assets/banner-772x250.png)](https://wordpress.org/plugins/edd-securionpay/)
+[![Plugin Banner](https://ps.w.org/edd-securionpay/assets/banner-1544x500.png)](https://wordpress.org/plugins/edd-securionpay/)
 
 **Tags:** credit-card, securionpay, payment gateway, payments, edd, easy-digital-downloads, secure-payment \
 **Tested up to:** 6.9 \
