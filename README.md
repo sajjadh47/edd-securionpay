@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/edd-securionpay/assets/banner-1544x500.png)](https://wordpress.org/plugins/edd-securionpay/)
 
 **Tags:** credit-card, securionpay, payment gateway, payments, edd, easy-digital-downloads, secure-payment \
-**Tested up to:** 6.9 \
+**Tested up to:** 7.0 \
 **Requires PHP:** 8.0
 
 Online Payment Platform Designed to Maximize Revenue.
@@ -62,6 +62,9 @@ Can be found here <a href="https://securionpay.com/account-settings#api-keys">AP
 
 
 ## Changelog
+
+### 2.0.2
+- Compatibility checkup for latest wp version 7.0
 
 ### 2.0.1
 - Checked for latest wp version 6.9
